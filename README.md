@@ -4,5 +4,6 @@
 imensa curiosidade, sempre fiquei fascinado com idéia de algum dia eu poderia entender e desenvolver projetos como aquele.
 
 ▪️ Atualmente com foco em Desenvolvimento Web, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com HTML, CSS, JavaScript e PHP.
+
 ⚡ Em constante evolução! ⚡
 
