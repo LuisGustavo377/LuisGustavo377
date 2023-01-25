@@ -27,7 +27,7 @@ imensa curiosidade, sempre fiquei fascinado com idéia de algum dia eu poderia e
 
  ### 🚀 Tecnologias sendo estudadas
   
-   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavo377&layout=compact)](https://github.com/LuisGustavo377/github-readme-stats)   
 
 <hr>
     
