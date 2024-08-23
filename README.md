@@ -1,6 +1,6 @@
-<h3 align="center" text-weight="bold"> Bem vindos ao meu perfil do GitHub...  </h3> 
+<h3 align="center" text-weight="bold"> Bem vindos! </h3> 
 <br>
-▪️ Tenho 23 anos, sou estudante na Puc Minas de S.I
+▪️ Estudante na Puc Minas de S.I
 
 ▪️ Atualmente com foco em Desenvolvimento Web, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com HTML, CSS, JavaScript, PHP, Laravel, Docker.
 
