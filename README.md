@@ -2,7 +2,7 @@
 <br>
 ▪️ Estudante na Puc Minas de S.I
 
-▪️ Atualmente com foco em Desenvolvimento Web, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com HTML, CSS, JavaScript, PHP, Laravel, Docker.
+▪️ Atualmente com foco em Desenvolvimento Web, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com JavaScript, Angular, React, PHP, Laravel, Docker.
 
 ▪️ Em constante evolução! ⚡  
 <hr>
